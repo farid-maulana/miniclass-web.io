@@ -1,13 +1,13 @@
 # Summary
 
 - [Miniclass Web](README.md)
-- [Pengenalan Pemrograman Web](#)
+- [Pengenalan Pemrograman Web]
 
   - [Cara Kerja Website](dasar/pendahuluan/cara-kerja-website.md)
   - [Pengenalan Backend dan Frontend](dasar/pendahuluan/pengenalan-backend-dan-frontend.md)
   - [HTTP Request dan HTTP Response](dasar/pendahuluan/http-request-dan-response.md)
 
-- [HTML](#)
+- [HTML]
 
   - [Pengenalan HTML](dasar/html/pengenalan-html.md)
   - [Text Formatting](dasar/html/text-formatting.md)
@@ -18,7 +18,7 @@
   - [Form](dasar/html/form.md)
   - [Grouping](dasar/html/grouping.md)
 
-- [CSS](#)
+- [CSS]
 
   - [Pengenalan CSS](dasar/css/pengenalan-css.md)
   - Selector CSS
@@ -31,7 +31,7 @@
   - [Responsive Design](dasar/css/responsive.md)
   - Membuat Template Web Responsive
 
-- [Javascript](#)
+- [Javascript]
   - [Pengenalan Node.js](dasar/node-js/node-js.md)
   - [Membuat Server HTTP](dasar/node-js/http-server.md)
   - [Routing](dasar/node-js/routing.md)
